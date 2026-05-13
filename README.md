@@ -16,8 +16,8 @@ A simple Python terminal tool that checks how strong your password is.
 >>**LIBRARIES**: String (built-in, no installs needed)
 
 ## > 📲 < IMAGES
-
-
+![first action](assetsPC/func1)
+![second and third action](assetsPC/func2-3)
 
 ## ¨✨¨ HOW TO RUN
 
